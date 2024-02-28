@@ -1,0 +1,3 @@
+C:/лабы прога/lab1/NewRes1/CMakeFiles/lab1.dir
+C:/лабы прога/lab1/NewRes1/CMakeFiles/ALL_BUILD.dir
+C:/лабы прога/lab1/NewRes1/CMakeFiles/ZERO_CHECK.dir
