@@ -15,3 +15,4 @@ include_directories("inc/")
 add_executable("${PROJECT_NAME}" lab1.var7.cpp
 )
 
+
